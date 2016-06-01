@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Carlito",
+  "description": "Because switching from Core to iOS or Android is tedious",
+  "version": "0.1",
+
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/mirego/*"],
+      "js": ["carlito.js"]
+    }
+  ],  
+
+  "permissions": [
+    "activeTab"
+  ]
+}
