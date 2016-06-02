@@ -10,6 +10,8 @@ At [Mirego](http://www.mirego.com/en) most of our mobile projects share a codeba
 
 (Where Core is the shared codebase.)
 
+This extension adds buttons to quickly jump to the Core, Android or iOS project.
+
 ![Carlito on an iOS project](screenshots/carlito-ios.png)
 ![Carlito on a core project](screenshots/carlito-core.png)
 
