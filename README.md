@@ -10,6 +10,9 @@ At [Mirego](http://www.mirego.com/en) most of our mobile projects share a codeba
 
 (Where Core is the shared codebase.)
 
+![Carlito on an iOS project](screenshots/carlito-ios.png)
+![Carlito on a core project](screenshots/carlito-core.png)
+
 ## Use it
 
 Go to the [Releases](https://github.com/Palleas/Carlito/releases) page and download the latest zip. It will
